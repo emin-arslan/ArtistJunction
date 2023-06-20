@@ -7,7 +7,13 @@
   .centered-items {
     @apply flex items-center justify-center
   }
+  .h-cursor-p{
+    @apply hover:cursor-pointer
+  }
 }
 body{
-  background: #101210;
+  background-image: url("./assets/bgImage5.png");
+  
+  
+  
 }
